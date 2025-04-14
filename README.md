@@ -55,25 +55,6 @@ I'm a passionate **Software developer/ Freelancer** who enjoys turning ideas int
   <img src="assets/zenitsu.gif" alt="Zenitsu" width="300" />
 </p>
 
-
-### 💬 Random Dev Quote
-
-<details>
-<summary>Click to read today's inspiration 💡</summary>
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
->  
-> "First, solve the problem. Then, write the code." – John Johnson  
->  
-> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson  
->  
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler  
->  
-> "Simplicity is the soul of efficiency." – Austin Freeman  
-
-</details>
-
-
 > *“You miss 100% of the shots you don't take.” – Wayne Gretzky (via Michael Scott)*
 
 Thanks for stopping by! 😊
