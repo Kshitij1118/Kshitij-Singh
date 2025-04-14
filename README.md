@@ -51,7 +51,7 @@ I'm a passionate **Flexo software developer** who enjoys turning ideas into beau
 ### ⚡ Just for Fun
 
 <p align="center">
-  <img src="assets/zenitsu.gif" alt="Zenitsu" width="300" />
+  <img src="assets/zenitsu.gif" alt="Zenitsu" width="600" />
 </p>
 
 ### 🧠 Quote of the Day
