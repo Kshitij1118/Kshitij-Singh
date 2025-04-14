@@ -22,7 +22,7 @@ I'm a passionate **Software developer/ Freelancer** who enjoys turning ideas int
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Typescript](https://img.shields.io/badge/-TypeScript-4600B0?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-TypeScript-4600B0?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-gray?style=flat-square&logo=express)
