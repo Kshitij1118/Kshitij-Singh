@@ -51,6 +51,12 @@ I'm a passionate **Flexo software developer** who enjoys turning ideas into beau
 ### ⚡ Just for Fun
 
 <p align="center">
+  <img src="assets/zenitsu.gif" alt="Zenitsu" width="300" />
+</p>
+
+### 🧠 Quote of the Day
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=dark&quote=random" alt="Random Dev Quote" />
 </p>
 
