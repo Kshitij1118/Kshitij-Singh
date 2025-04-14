@@ -5,7 +5,7 @@
 
 # 👋 Hey there, I'm Kshitij Singh!
 
-I'm a passionate **Flexo software developer** who enjoys turning ideas into beautiful, functional code. From clean frontend interfaces to solid backend systems, I love crafting smooth digital experiences—and learning something new every step of the way.
+I'm a passionate **Software developer/ Freelancer** who enjoys turning ideas into beautiful, functional code. From clean frontend interfaces to solid backend systems, I love crafting smooth digital experiences—and learning something new every step of the way.
 
 ---
 
@@ -22,6 +22,7 @@ I'm a passionate **Flexo software developer** who enjoys turning ideas into beau
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-TypeScript-4600B0?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-gray?style=flat-square&logo=express)
