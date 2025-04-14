@@ -51,13 +51,7 @@ I'm a passionate **Flexo software developer** who enjoys turning ideas into beau
 ### ⚡ Just for Fun
 
 <p align="center">
-  <img src="assets/zenitsu.gif" alt="Zenitsu" width="600" />
-</p>
-
-### 🧠 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=dark&quote=random" alt="Random Dev Quote" />
+  <img src="assets/zenitsu.gif" alt="Zenitsu" width="300" />
 </p>
 
 > *“You miss 100% of the shots you don't take.” – Wayne Gretzky (via Michael Scott)*
