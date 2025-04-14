@@ -52,7 +52,7 @@ I'm a passionate **Software developer/ Freelancer** who enjoys turning ideas int
 ### ⚡ Just for Fun
 
 <p align="center">
-  <img src="assets/zenitsu.gif" alt="Zenitsu" width="300" />
+  <img src="assets/zenitsu.gif" alt="Zenitsu" width="600" height="300"/>
 </p>
 
 > *“You miss 100% of the shots you don't take.” – Wayne Gretzky (via Michael Scott)*
