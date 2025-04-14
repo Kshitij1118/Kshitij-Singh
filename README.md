@@ -1,6 +1,6 @@
 <!-- Programming Banner -->
 <p align="center">
-  <img src="https://drive.google.com/drive/u/0/folders/1IvbjvywG58P7U5ZYOw7vJN8G3oOam7wZ" alt="Programming Banner" />
+  <img src="assets/banner.png" alt="Programming Banner" />
 </p>
 
 # 👋 Hey there, I'm Kshitij Singh!
@@ -51,7 +51,7 @@ I'm a passionate **Flexo software developer** who enjoys turning ideas into beau
 ### ⚡ Just for Fun
 
 <p align="center">
-  <img src="https://media.giphy.com/media/r3ybfC1a8VWyU/giphy.gif" alt="Zenitsu" width="300" />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dark&quote=random" alt="Random Dev Quote" />
 </p>
 
 > *“You miss 100% of the shots you don't take.” – Wayne Gretzky (via Michael Scott)*
