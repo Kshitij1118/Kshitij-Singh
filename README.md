@@ -1,6 +1,6 @@
 <!-- Programming Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/J6gG1Pf.png" alt="Programming Banner" />
+  <img src="https://drive.google.com/drive/u/0/folders/1IvbjvywG58P7U5ZYOw7vJN8G3oOam7wZ" alt="Programming Banner" />
 </p>
 
 # 👋 Hey there, I'm Kshitij Singh!
